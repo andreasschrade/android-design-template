@@ -17,7 +17,7 @@ Support Design Library Views          |  Preferences
 
 ## What is this?
 
-This is a State of the Art Android Material Design template. You can use this project as a template for upcomming App projects. Just clone the project, change package name and make all necessary customisations. 
+This is a State of the Art Android Material Design template. You can use this project as a template for upcoming App projects. Just clone the project, change package name and make all necessary customisations. 
 
 
 ## Dependencies
