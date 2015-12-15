@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_settings_1_key">pref_settings_1</string>
+    <string name="pref_settings_1_title">Settings 1 title</string>
+    <string name="pref_settings_1_description">Settings 1 description</string>
+
+    <string name="pref_settings_2_key">pref_settings_2</string>
+    <string name="pref_settings_2_title">Settings 2 title</string>
+    <string name="pref_settings_2_description">Settings 2 description</string>
+
+    <string name="pref_settings_3_key">pref_settings_3</string>
+    <string name="pref_settings_3_title">Settings 3 title</string>
+    <string name="pref_settings_3_description">Settings 3 description</string>
+</resources>

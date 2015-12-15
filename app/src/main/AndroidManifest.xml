@@ -1,0 +1,30 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="de.andreasschrade.androidtemplate">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Main">
+
+        <activity android:name=".ui.quote.ListActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ui.quote.ArticleDetailActivity"
+            android:label=""
+            android:parentActivityName=".ui.quote.ListActivity"/>
+        <activity android:name=".ui.ViewSamplesActivity"
+            android:label="Samples"
+            android:parentActivityName=".ui.quote.ListActivity"/>
+        <activity android:name=".ui.SettingsActivity"
+            android:label="Settings"
+            android:parentActivityName=".ui.quote.ListActivity"/>
+
+    </application>
+
+</manifest>

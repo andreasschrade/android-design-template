@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_article_thumbnail">80dp</dimen>
+    <dimen name="list_item_artile_vertical_margin">16dp</dimen>
+    <dimen name="list_item_article_space">16dp</dimen>
+
+</resources>

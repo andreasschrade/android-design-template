@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="16dp"
+    android:divider="@drawable/divider"
+    android:orientation="horizontal"
+    android:showDividers="middle"
+    tools:context=".ListActivity"
+    android:baselineAligned="false">
+
+    <fragment
+        android:id="@+id/article_list"
+        android:name="de.andreasschrade.androidtemplate.ui.quote.ArticleListFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        tools:layout="@android:layout/list_content"/>
+
+    <FrameLayout
+        android:id="@+id/article_detail_container"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="5"/>
+
+</LinearLayout>
