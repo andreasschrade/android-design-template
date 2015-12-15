@@ -145,7 +145,7 @@ For example, the following snippet (ArticleDetailFragment.java) binds automatica
 ```
 
 ## About
-My name is <a href="http://http://www.andreas-schrade.de/">Andreas Schrade</a> and I am a freelance software developer with an interest in Android and Java backend development.
+My name is <a href="http://www.andreas-schrade.de">Andreas Schrade</a> and I am a freelance software developer with an interest in Android and Java backend development.
 
 
 
