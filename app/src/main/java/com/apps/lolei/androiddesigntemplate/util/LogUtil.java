@@ -1,4 +1,4 @@
-package de.andreasschrade.androidtemplate.util;
+package com.apps.lolei.androiddesigntemplate.util;
 
 import android.util.Log;
 

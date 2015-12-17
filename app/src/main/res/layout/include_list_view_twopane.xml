@@ -11,7 +11,7 @@
 
     <fragment
         android:id="@+id/article_list"
-        android:name="de.andreasschrade.androidtemplate.ui.quote.ArticleListFragment"
+        android:name="com.apps.lolei.androiddesigntemplate.ui.quote.ArticleListFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="3"

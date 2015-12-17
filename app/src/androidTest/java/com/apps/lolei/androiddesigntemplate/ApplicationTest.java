@@ -1,4 +1,4 @@
-package de.andreasschrade.androidtemplate;
+package com.apps.lolei.androiddesigntemplate;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

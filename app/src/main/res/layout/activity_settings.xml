@@ -10,7 +10,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
         <include layout="@layout/include_toolbar" />
-        <fragment android:name="de.andreasschrade.androidtemplate.ui.SettingsActivity$SettingsFragment"
+        <fragment android:name="com.apps.lolei.androiddesigntemplate.ui.SettingsActivity$SettingsFragment"
             android:id="@+id/settings_fragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
