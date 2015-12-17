@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "de.andreasschrade.androidtemplate"
+        applicationId "com.apps.lolei.androidtemplate"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
@@ -27,4 +27,5 @@ dependencies {
 
     compile 'com.github.bumptech.glide:glide:3.6.1'
     compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.android.support:appcompat-v7:23.1.1'
 }

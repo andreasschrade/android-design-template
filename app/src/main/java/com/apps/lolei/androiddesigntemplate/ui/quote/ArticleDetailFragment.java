@@ -1,4 +1,4 @@
-package de.andreasschrade.androidtemplate.ui.quote;
+package com.apps.lolei.androiddesigntemplate.ui.quote;
 
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
@@ -15,10 +15,10 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import butterknife.Bind;
-import de.andreasschrade.androidtemplate.R;
-import de.andreasschrade.androidtemplate.dummy.DummyContent;
-import de.andreasschrade.androidtemplate.ui.base.BaseActivity;
-import de.andreasschrade.androidtemplate.ui.base.BaseFragment;
+import com.apps.lolei.androiddesigntemplate.R;
+import com.apps.lolei.androiddesigntemplate.dummy.DummyContent;
+import com.apps.lolei.androiddesigntemplate.ui.base.BaseActivity;
+import com.apps.lolei.androiddesigntemplate.ui.base.BaseFragment;
 
 /**
  * Shows the quote detail page.

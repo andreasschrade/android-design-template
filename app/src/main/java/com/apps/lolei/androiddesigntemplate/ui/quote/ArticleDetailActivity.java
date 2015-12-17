@@ -1,9 +1,9 @@
-package de.andreasschrade.androidtemplate.ui.quote;
+package com.apps.lolei.androiddesigntemplate.ui.quote;
 
 import android.os.Bundle;
 
-import de.andreasschrade.androidtemplate.R;
-import de.andreasschrade.androidtemplate.ui.base.BaseActivity;
+import com.apps.lolei.androiddesigntemplate.R;
+import com.apps.lolei.androiddesigntemplate.ui.base.BaseActivity;
 
 /**
  * Simple wrapper for {@link ArticleDetailFragment}

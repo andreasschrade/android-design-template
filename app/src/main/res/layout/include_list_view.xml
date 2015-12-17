@@ -3,7 +3,7 @@
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/article_list"
-    android:name="de.andreasschrade.androidtemplate.ui.quote.ArticleListFragment"
+    android:name="com.apps.lolei.androiddesigntemplate.ui.quote.ArticleListFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ListActivity"
